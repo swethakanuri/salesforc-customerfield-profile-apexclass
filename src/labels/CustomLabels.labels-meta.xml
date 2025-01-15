@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>country</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>country</shortDescription>
+        <value>Country-India</value>
+    </labels>
+    <labels>
+        <fullName>title_name</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>title name</shortDescription>
+        <value>Custom_label_opsera</value>
+    </labels>
+</CustomLabels>
